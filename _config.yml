@@ -1,4 +1,8 @@
-layout_spectrum: 1
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9996557915583253
+  saturation: 0.1262084
   brandStrength: 0.3296576109714806
-  rhythmicContrast: 0.82844421826303
+  lightness: 0.3045112
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  lightness: 0.865760340820998
-typography_spectrum: 0.09076262
+  rhythmicContrast: 0.6664876
+typography_spectrum: 0.2722878
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 name: '#careerhacks'
